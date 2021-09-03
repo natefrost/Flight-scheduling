@@ -1,0 +1,503 @@
+<PSP CSM_Tm="2019-05-31T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="5"/>
+
+<PSP CSM_Tm="2019-06-01T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="53"/>
+
+<PSP CSM_Tm="2019-05-31T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="4"/>
+
+<PSP CSM_Tm="2019-06-01T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="63"/>
+
+<PSP CSM_Tm="2019-05-31T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="8"/>
+
+<PSP CSM_Tm="2019-06-01T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="61"/>
+
+<PSP CSM_Tm="2019-06-01T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="26"/>
+
+<PSP CSM_Tm="2019-06-01T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="182"/>
+
+<PSP CSM_Tm="2019-06-01T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="359"/>
+
+<PSP CSM_Tm="2019-06-02T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="415"/>
+
+<PSP CSM_Tm="2019-06-01T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="361"/>
+
+<PSP CSM_Tm="2019-06-02T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="430"/>
+
+<PSP CSM_Tm="2019-06-01T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="364"/>
+
+<PSP CSM_Tm="2019-06-02T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="425"/>
+
+<PSP CSM_Tm="2019-06-02T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="387"/>
+
+<PSP CSM_Tm="2019-06-02T07:30" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="580"/>
+
+<PSP CSM_Tm="2019-06-02T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="758"/>
+
+<PSP CSM_Tm="2019-06-03T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="808"/>
+
+<PSP CSM_Tm="2019-06-02T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="759"/>
+
+<PSP CSM_Tm="2019-06-03T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="825"/>
+
+<PSP CSM_Tm="2019-06-02T22:35" Base="HAN" AcType="35A" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="761"/>
+
+<PSP CSM_Tm="2019-06-03T01:00" Base="HAN" AcType="35A" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="823"/>
+
+<PSP CSM_Tm="2019-06-03T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="779"/>
+
+<PSP CSM_Tm="2019-06-03T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="941"/>
+
+<PSP CSM_Tm="2019-06-03T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="1127"/>
+
+<PSP CSM_Tm="2019-06-04T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="1178"/>
+
+<PSP CSM_Tm="2019-06-03T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="1125"/>
+
+<PSP CSM_Tm="2019-06-04T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="1193"/>
+
+<PSP CSM_Tm="2019-06-03T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="1129"/>
+
+<PSP CSM_Tm="2019-06-04T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="1186"/>
+
+<PSP CSM_Tm="2019-06-04T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="1152"/>
+
+<PSP CSM_Tm="2019-06-04T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="1315"/>
+
+<PSP CSM_Tm="2019-06-04T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="1502"/>
+
+<PSP CSM_Tm="2019-06-05T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="1569"/>
+
+<PSP CSM_Tm="2019-06-04T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="1503"/>
+
+<PSP CSM_Tm="2019-06-05T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="1568"/>
+
+<PSP CSM_Tm="2019-06-04T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="1508"/>
+
+<PSP CSM_Tm="2019-06-05T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="1555"/>
+
+<PSP CSM_Tm="2019-06-05T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="1528"/>
+
+<PSP CSM_Tm="2019-06-05T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="1690"/>
+
+<PSP CSM_Tm="2019-06-05T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="1882"/>
+
+<PSP CSM_Tm="2019-06-06T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="1936"/>
+
+<PSP CSM_Tm="2019-06-05T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="1883"/>
+
+<PSP CSM_Tm="2019-06-06T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="1948"/>
+
+<PSP CSM_Tm="2019-06-05T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="1889"/>
+
+<PSP CSM_Tm="2019-06-06T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="1951"/>
+
+<PSP CSM_Tm="2019-06-06T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="1909"/>
+
+<PSP CSM_Tm="2019-06-06T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="2075"/>
+
+<PSP CSM_Tm="2019-06-06T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="2264"/>
+
+<PSP CSM_Tm="2019-06-07T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="2329"/>
+
+<PSP CSM_Tm="2019-06-06T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="2265"/>
+
+<PSP CSM_Tm="2019-06-07T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="2327"/>
+
+<PSP CSM_Tm="2019-06-06T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="2271"/>
+
+<PSP CSM_Tm="2019-06-07T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="2320"/>
+
+<PSP CSM_Tm="2019-06-07T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="2291"/>
+
+<PSP CSM_Tm="2019-06-07T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="2457"/>
+
+<PSP CSM_Tm="2019-06-07T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="2671"/>
+
+<PSP CSM_Tm="2019-06-08T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="2727"/>
+
+<PSP CSM_Tm="2019-06-07T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="2672"/>
+
+<PSP CSM_Tm="2019-06-08T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="2743"/>
+
+<PSP CSM_Tm="2019-06-07T22:35" Base="HAN" AcType="35A" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="2676"/>
+
+<PSP CSM_Tm="2019-06-08T01:00" Base="HAN" AcType="35A" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="2741"/>
+
+<PSP CSM_Tm="2019-06-08T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="2697"/>
+
+<PSP CSM_Tm="2019-06-08T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="2874"/>
+
+<PSP CSM_Tm="2019-06-08T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="3069"/>
+
+<PSP CSM_Tm="2019-06-09T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="3139"/>
+
+<PSP CSM_Tm="2019-06-08T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="3070"/>
+
+<PSP CSM_Tm="2019-06-09T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="3141"/>
+
+<PSP CSM_Tm="2019-06-08T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="3078"/>
+
+<PSP CSM_Tm="2019-06-09T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="3130"/>
+
+<PSP CSM_Tm="2019-06-09T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="3102"/>
+
+<PSP CSM_Tm="2019-06-09T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="3267"/>
+
+<PSP CSM_Tm="2019-06-09T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="3491"/>
+
+<PSP CSM_Tm="2019-06-10T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="3542"/>
+
+<PSP CSM_Tm="2019-06-09T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="3488"/>
+
+<PSP CSM_Tm="2019-06-10T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="3555"/>
+
+<PSP CSM_Tm="2019-06-09T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="3493"/>
+
+<PSP CSM_Tm="2019-06-10T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="3558"/>
+
+<PSP CSM_Tm="2019-06-10T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="3513"/>
+
+<PSP CSM_Tm="2019-06-10T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="3685"/>
+
+<PSP CSM_Tm="2019-06-10T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="3877"/>
+
+<PSP CSM_Tm="2019-06-11T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="3936"/>
+
+<PSP CSM_Tm="2019-06-10T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="3878"/>
+
+<PSP CSM_Tm="2019-06-11T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="3944"/>
+
+<PSP CSM_Tm="2019-06-10T22:35" Base="HAN" AcType="35A" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="3881"/>
+
+<PSP CSM_Tm="2019-06-11T01:00" Base="HAN" AcType="35A" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="3948"/>
+
+<PSP CSM_Tm="2019-06-11T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="3904"/>
+
+<PSP CSM_Tm="2019-06-11T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="4072"/>
+
+<PSP CSM_Tm="2019-06-11T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="4278"/>
+
+<PSP CSM_Tm="2019-06-12T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="4339"/>
+
+<PSP CSM_Tm="2019-06-11T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="4279"/>
+
+<PSP CSM_Tm="2019-06-12T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="4348"/>
+
+<PSP CSM_Tm="2019-06-11T22:35" Base="HAN" AcType="35A" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="4282"/>
+
+<PSP CSM_Tm="2019-06-12T01:00" Base="HAN" AcType="35A" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="4354"/>
+
+<PSP CSM_Tm="2019-06-12T05:00" Base="SGN" AcType="35A" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="4305"/>
+
+<PSP CSM_Tm="2019-06-12T06:25" Base="SGN" AcType="35A" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="4484"/>
+
+<PSP CSM_Tm="2019-06-12T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="4685"/>
+
+<PSP CSM_Tm="2019-06-13T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="4743"/>
+
+<PSP CSM_Tm="2019-06-12T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="4684"/>
+
+<PSP CSM_Tm="2019-06-13T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="4751"/>
+
+<PSP CSM_Tm="2019-06-12T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="4692"/>
+
+<PSP CSM_Tm="2019-06-13T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="4754"/>
+
+<PSP CSM_Tm="2019-06-13T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="4714"/>
+
+<PSP CSM_Tm="2019-06-13T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="4882"/>
+
+<PSP CSM_Tm="2019-06-13T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="5088"/>
+
+<PSP CSM_Tm="2019-06-14T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="5145"/>
+
+<PSP CSM_Tm="2019-06-13T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="5086"/>
+
+<PSP CSM_Tm="2019-06-14T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="5161"/>
+
+<PSP CSM_Tm="2019-06-13T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="5092"/>
+
+<PSP CSM_Tm="2019-06-14T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="5158"/>
+
+<PSP CSM_Tm="2019-06-14T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="5113"/>
+
+<PSP CSM_Tm="2019-06-14T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="5295"/>
+
+<PSP CSM_Tm="2019-06-14T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="5527"/>
+
+<PSP CSM_Tm="2019-06-15T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="5583"/>
+
+<PSP CSM_Tm="2019-06-14T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="5525"/>
+
+<PSP CSM_Tm="2019-06-15T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="5596"/>
+
+<PSP CSM_Tm="2019-06-14T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="5531"/>
+
+<PSP CSM_Tm="2019-06-15T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="5594"/>
+
+<PSP CSM_Tm="2019-06-15T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="5551"/>
+
+<PSP CSM_Tm="2019-06-15T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="5730"/>
+
+<PSP CSM_Tm="2019-06-15T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="5933"/>
+
+<PSP CSM_Tm="2019-06-16T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="5990"/>
+
+<PSP CSM_Tm="2019-06-15T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="5932"/>
+
+<PSP CSM_Tm="2019-06-16T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="6002"/>
+
+<PSP CSM_Tm="2019-06-15T22:35" Base="HAN" AcType="35A" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="5939"/>
+
+<PSP CSM_Tm="2019-06-16T01:00" Base="HAN" AcType="35A" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="6000"/>
+
+<PSP CSM_Tm="2019-06-16T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="5961"/>
+
+<PSP CSM_Tm="2019-06-16T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="6137"/>
+
+<PSP CSM_Tm="2019-06-16T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="6370"/>
+
+<PSP CSM_Tm="2019-06-17T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="6425"/>
+
+<PSP CSM_Tm="2019-06-16T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="6373"/>
+
+<PSP CSM_Tm="2019-06-17T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="6441"/>
+
+<PSP CSM_Tm="2019-06-16T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="6377"/>
+
+<PSP CSM_Tm="2019-06-17T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="6434"/>
+
+<PSP CSM_Tm="2019-06-17T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="6394"/>
+
+<PSP CSM_Tm="2019-06-17T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="6569"/>
+
+<PSP CSM_Tm="2019-06-17T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="6769"/>
+
+<PSP CSM_Tm="2019-06-18T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="6827"/>
+
+<PSP CSM_Tm="2019-06-17T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="6770"/>
+
+<PSP CSM_Tm="2019-06-18T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="6834"/>
+
+<PSP CSM_Tm="2019-06-17T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="6775"/>
+
+<PSP CSM_Tm="2019-06-18T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="6836"/>
+
+<PSP CSM_Tm="2019-06-18T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="6796"/>
+
+<PSP CSM_Tm="2019-06-18T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="6972"/>
+
+<PSP CSM_Tm="2019-06-18T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="7180"/>
+
+<PSP CSM_Tm="2019-06-19T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="7242"/>
+
+<PSP CSM_Tm="2019-06-18T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="7184"/>
+
+<PSP CSM_Tm="2019-06-19T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="7254"/>
+
+<PSP CSM_Tm="2019-06-18T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="7188"/>
+
+<PSP CSM_Tm="2019-06-19T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="7250"/>
+
+<PSP CSM_Tm="2019-06-19T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="7209"/>
+
+<PSP CSM_Tm="2019-06-19T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="7391"/>
+
+<PSP CSM_Tm="2019-06-19T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="7599"/>
+
+<PSP CSM_Tm="2019-06-20T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="7658"/>
+
+<PSP CSM_Tm="2019-06-19T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="7597"/>
+
+<PSP CSM_Tm="2019-06-20T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="7668"/>
+
+<PSP CSM_Tm="2019-06-19T22:35" Base="HAN" AcType="35A" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="7605"/>
+
+<PSP CSM_Tm="2019-06-20T01:00" Base="HAN" AcType="35A" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="7673"/>
+
+<PSP CSM_Tm="2019-06-20T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="7624"/>
+
+<PSP CSM_Tm="2019-06-20T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="7807"/>
+
+<PSP CSM_Tm="2019-06-20T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="8033"/>
+
+<PSP CSM_Tm="2019-06-21T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="8092"/>
+
+<PSP CSM_Tm="2019-06-20T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="8032"/>
+
+<PSP CSM_Tm="2019-06-21T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="8101"/>
+
+<PSP CSM_Tm="2019-06-20T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="8035"/>
+
+<PSP CSM_Tm="2019-06-21T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="8107"/>
+
+<PSP CSM_Tm="2019-06-21T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="8057"/>
+
+<PSP CSM_Tm="2019-06-21T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="8242"/>
+
+<PSP CSM_Tm="2019-06-21T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="8482"/>
+
+<PSP CSM_Tm="2019-06-22T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="8543"/>
+
+<PSP CSM_Tm="2019-06-21T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="8483"/>
+
+<PSP CSM_Tm="2019-06-22T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="8555"/>
+
+<PSP CSM_Tm="2019-06-21T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="8489"/>
+
+<PSP CSM_Tm="2019-06-22T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="8553"/>
+
+<PSP CSM_Tm="2019-06-22T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="8508"/>
+
+<PSP CSM_Tm="2019-06-22T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="8698"/>
+
+<PSP CSM_Tm="2019-06-22T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="8916"/>
+
+<PSP CSM_Tm="2019-06-23T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="8973"/>
+
+<PSP CSM_Tm="2019-06-22T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="8913"/>
+
+<PSP CSM_Tm="2019-06-23T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="8987"/>
+
+<PSP CSM_Tm="2019-06-22T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="8919"/>
+
+<PSP CSM_Tm="2019-06-23T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="8990"/>
+
+<PSP CSM_Tm="2019-06-23T05:00" Base="SGN" AcType="35A" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="8942"/>
+
+<PSP CSM_Tm="2019-06-23T06:25" Base="SGN" AcType="35A" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="9123"/>
+
+<PSP CSM_Tm="2019-06-23T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="9370"/>
+
+<PSP CSM_Tm="2019-06-24T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="9426"/>
+
+<PSP CSM_Tm="2019-06-23T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="9367"/>
+
+<PSP CSM_Tm="2019-06-24T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="9441"/>
+
+<PSP CSM_Tm="2019-06-23T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="9374"/>
+
+<PSP CSM_Tm="2019-06-24T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="9436"/>
+
+<PSP CSM_Tm="2019-06-24T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="9392"/>
+
+<PSP CSM_Tm="2019-06-24T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="9578"/>
+
+<PSP CSM_Tm="2019-06-24T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="9797"/>
+
+<PSP CSM_Tm="2019-06-25T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="9854"/>
+
+<PSP CSM_Tm="2019-06-24T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="9796"/>
+
+<PSP CSM_Tm="2019-06-25T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="9867"/>
+
+<PSP CSM_Tm="2019-06-24T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="9801"/>
+
+<PSP CSM_Tm="2019-06-25T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="9864"/>
+
+<PSP CSM_Tm="2019-06-25T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="9823"/>
+
+<PSP CSM_Tm="2019-06-25T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="10007"/>
+
+<PSP CSM_Tm="2019-06-25T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="10222"/>
+
+<PSP CSM_Tm="2019-06-26T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="10285"/>
+
+<PSP CSM_Tm="2019-06-25T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="10221"/>
+
+<PSP CSM_Tm="2019-06-26T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="10299"/>
+
+<PSP CSM_Tm="2019-06-25T22:35" Base="HAN" AcType="35A" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="10230"/>
+
+<PSP CSM_Tm="2019-06-26T01:00" Base="HAN" AcType="35A" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="10297"/>
+
+<PSP CSM_Tm="2019-06-26T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="10251"/>
+
+<PSP CSM_Tm="2019-06-26T06:55" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="10446"/>
+
+<PSP CSM_Tm="2019-06-26T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="10657"/>
+
+<PSP CSM_Tm="2019-06-27T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="10715"/>
+
+<PSP CSM_Tm="2019-06-26T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="10656"/>
+
+<PSP CSM_Tm="2019-06-27T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="10731"/>
+
+<PSP CSM_Tm="2019-06-26T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="10664"/>
+
+<PSP CSM_Tm="2019-06-27T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="10729"/>
+
+<PSP CSM_Tm="2019-06-27T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="10684"/>
+
+<PSP CSM_Tm="2019-06-27T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="10872"/>
+
+<PSP CSM_Tm="2019-06-27T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="11088"/>
+
+<PSP CSM_Tm="2019-06-28T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="11153"/>
+
+<PSP CSM_Tm="2019-06-27T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="11089"/>
+
+<PSP CSM_Tm="2019-06-28T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="11170"/>
+
+<PSP CSM_Tm="2019-06-27T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="11094"/>
+
+<PSP CSM_Tm="2019-06-28T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="11168"/>
+
+<PSP CSM_Tm="2019-06-28T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="11115"/>
+
+<PSP CSM_Tm="2019-06-28T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="11305"/>
+
+<PSP CSM_Tm="2019-06-28T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="11547"/>
+
+<PSP CSM_Tm="2019-06-29T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="11609"/>
+
+<PSP CSM_Tm="2019-06-28T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="11546"/>
+
+<PSP CSM_Tm="2019-06-29T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="11624"/>
+
+<PSP CSM_Tm="2019-06-28T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="11552"/>
+
+<PSP CSM_Tm="2019-06-29T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="11623"/>
+
+<PSP CSM_Tm="2019-06-29T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="11573"/>
+
+<PSP CSM_Tm="2019-06-29T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="11758"/>
+
+<PSP CSM_Tm="2019-06-29T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="11988"/>
+
+<PSP CSM_Tm="2019-06-30T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="12048"/>
+
+<PSP CSM_Tm="2019-06-29T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="11992"/>
+
+<PSP CSM_Tm="2019-06-30T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="12059"/>
+
+<PSP CSM_Tm="2019-06-29T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="11995"/>
+
+<PSP CSM_Tm="2019-06-30T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="12066"/>
+
+<PSP CSM_Tm="2019-06-30T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="12018"/>
+
+<PSP CSM_Tm="2019-06-30T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="12205"/>
+
+<PSP CSM_Tm="2019-06-30T23:00" Base="SGN" AcType="35B" FltNo="VN0300" CSM_Kind="Arrival" CSM_ID="12450"/>
+
+<PSP CSM_Tm="2019-07-01T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="12514"/>
+
+<PSP CSM_Tm="2019-06-30T22:35" Base="DAD" AcType="32A" FltNo="VN0318" CSM_Kind="Arrival" CSM_ID="12453"/>
+
+<PSP CSM_Tm="2019-07-01T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="12529"/>
+
+<PSP CSM_Tm="2019-06-30T22:35" Base="HAN" AcType="35B" FltNo="VN0310" CSM_Kind="Arrival" CSM_ID="12457"/>
+
+<PSP CSM_Tm="2019-07-01T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="12526"/>
+
+<PSP CSM_Tm="2019-07-01T05:00" Base="SGN" AcType="35B" FltNo="VN0302" CSM_Kind="Arrival" CSM_ID="12477"/>
+
+<PSP CSM_Tm="2019-07-01T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="12595"/>
+
+<PSP CSM_Tm="2019-07-02T00:30" Base="SGN" AcType="35B" FltNo="VN0301" CSM_Kind="Departure" CSM_ID="12622"/>
+
+<PSP CSM_Tm="2019-07-02T01:00" Base="HAN" AcType="35B" FltNo="VN0311" CSM_Kind="Departure" CSM_ID="12628"/>
+
+<PSP CSM_Tm="2019-07-02T01:00" Base="DAD" AcType="32A" FltNo="VN0319" CSM_Kind="Departure" CSM_ID="12624"/>
+
+<PSP CSM_Tm="2019-07-02T06:25" Base="SGN" AcType="35B" FltNo="VN0303" CSM_Kind="Departure" CSM_ID="12644"/>
